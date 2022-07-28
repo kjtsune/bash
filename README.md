@@ -1,5 +1,3 @@
-# bash
-Some shell script
 # SSH Key Installer
 
 Install SSH keys via GitHub, URL or local files
@@ -15,7 +13,7 @@ https://github.com/P3TERX/SSH_Key_Installer
 ## Usage
 
 ```
-bash <(curl -fsSL git.io/key.sh) [options...] <arg>
+bash <(curl -fsSL github.com/kjtsune/bash/raw/main/ssh_key.sh) [options...] <arg>
 ```
 
 ## Options
