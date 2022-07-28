@@ -18,6 +18,12 @@ https://github.com/P3TERX/SSH_Key_Installer
 bash <(curl -fsSL github.com/kjtsune/bash/raw/main/ssh_key.sh) [options...] <arg>
 ```
 
+- Example
+
+```
+bash <(curl -fsSL github.com/kjtsune/bash/raw/main/ssh_key.sh) -o -g kjtsune -p 2222 -d
+```
+
 - Options
 
 * `-o` - Overwrite mode, this option is valid at the top
